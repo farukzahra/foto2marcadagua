@@ -1,0 +1,19 @@
+# Pastas de imagens
+fotos_com_marcadagua/
+fotos_originais/
+
+# Histórico do VSCode ou outros editores
+.history/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de log
+*.log
+
+# Ambiente virtual
+venv/
+.env/ 
